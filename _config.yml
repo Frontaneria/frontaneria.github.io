@@ -1,0 +1,18 @@
+title: Frontaneros/as Website
+email: frontaneros@gmail.com
+description: "Página web de Frontaneros/as"
+baseurl: ""
+url: "https://frontaneros.github.io"
+Github: https://github.com/Frontaneros
+
+# Build settings
+markdown: kramdown
+paginate_path: /blog/page:num
+paginate: 10
+permalink: pretty
+sass:
+  style: :compressed
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate

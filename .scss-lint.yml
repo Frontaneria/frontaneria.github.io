@@ -1,0 +1,222 @@
+linters:
+
+  BangFormat:
+    enabled: true
+    space_before_bang: true # Default value
+    space_after_bang: false # Default value
+
+  BemDepth:
+    enabled: true
+    max_elements: 1 # Default value
+
+  BorderZero:
+    enabled: true
+    convention: zero # Default value
+
+  ChainedClasses:
+    enabled: false
+
+  ColorKeyword:
+    enabled: true
+
+  ColorVariable:
+    enabled: true
+
+  Comment:
+    enabled: false
+
+  DebugStatement:
+    enabled: true
+
+  DeclarationOrder:
+    enabled: true
+
+  DisableLinterReason:
+    enabled: true
+
+  DuplicateProperty:
+    enabled: false
+
+  ElsePlacement:
+    enabled: true
+    style: new_line
+
+  EmptyLineBetweenBlocks:
+    enabled: true
+    ignore_single_line_blocks: true # Default value
+
+  EmptyRule:
+    enabled: true
+
+  ExtendDirective:
+    enabled: false # Default value
+
+  FinalNewline:
+    enabled: true
+    present: true # Default value
+
+  HexLength:
+    enabled: true
+    style: long
+
+  HexNotation:
+    enabled: true
+    style: lowercase # Default value
+
+  HexValidation:
+    enabled: true
+
+  IdSelector:
+    enabled: true
+
+  ImportantRule:
+    enabled: false
+
+  ImportPath:
+    enabled: true
+    leading_underscore: false # Default value
+    filename_extension: false # Default value
+
+  Indentation:
+    enabled: true
+    allow_non_nested_indentation: true
+    character: space # Default value
+    width: 2
+
+  LeadingZero:
+    enabled: true
+    style: include_zero
+
+  LengthVariable:
+    enabled: false # Default value
+
+  MergeableSelector:
+    enabled: false
+    force_nesting: false
+
+  NameFormat:
+    enabled: true
+    convention: hyphenated_lowercase # Default value
+    allow_leading_underscore: true # Default value
+
+  NestingDepth:
+    enabled: true
+    max_depth: 2
+
+  PlaceholderInExtend:
+    enabled: true
+
+  PrivateNamingConvention:
+    enabled: true
+    prefix: _
+
+  PropertyCount:
+    enabled: false
+
+  PropertySortOrder:
+    enabled: true
+
+  PropertySpelling:
+    enabled: true
+    extra_properties: []
+
+  PropertyUnits:
+    enabled: false
+
+  PseudoElement:
+    enabled: true
+
+  QualifyingElement:
+    enabled: true
+    allow_element_with_attribute: false # Default value
+    allow_element_with_class: false # Default value
+    allow_element_with_id: false # Default value
+
+  SelectorDepth:
+    enabled: true
+    max_depth: 3 # Default value
+
+  SelectorFormat:
+    enabled: true
+    convention: hyphenated_BEM
+
+  Shorthand:
+    enabled: true
+
+  SingleLinePerProperty:
+    enabled: true
+    allow_single_line_rule_sets: false # Default value
+
+  SingleLinePerSelector:
+    enabled: true
+
+  SpaceAfterComma:
+    enabled: true
+    style: one_space
+
+  SpaceAfterComment:
+    enabled: true
+
+  SpaceAfterPropertyColon:
+    enabled: true
+    style: one_space
+
+  SpaceAfterPropertyName:
+    enabled: true
+
+  SpaceAfterVariableColon:
+    enabled: true
+    style: one_space # Default value
+
+  SpaceAfterVariableName:
+    enabled: true
+
+  SpaceAroundOperator:
+    enabled: true
+    style: one_space # Default value
+
+  SpaceBeforeBrace:
+    enabled: true
+    style: space # Default value
+    allow_single_line_padding: true
+
+  SpaceBetweenParens:
+    enabled: true
+    spaces: 0 # Default value
+
+  StringQuotes:
+    enabled: true
+    style: single_quotes # Default value
+
+  TrailingSemicolon:
+    enabled: true
+
+  TrailingZero:
+    enabled: true
+
+  TransitionAll:
+    enabled: true
+
+  UnnecessaryMantissa:
+    enabled: true
+
+  UnnecessaryParentReference:
+    enabled: true
+
+  UrlFormat:
+    enabled: false
+
+  UrlQuotes:
+    enabled: true
+
+  VariableForProperty:
+    enabled: false
+
+  VendorPrefixes:
+    enabled: true
+    identifier_list: base # Default value
+    additional_identifiers: [] # Default value
+    excluded_identifiers: [] # Default value
+
+  ZeroUnit:
+    enabled: true

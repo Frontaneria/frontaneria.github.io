@@ -14,10 +14,8 @@ cd frontaneros.github.io
 To install dependencies following command:
 
 ```
-gem install jekyll
-gem install jekyll-feed
-gem install jekyll-sitemap
-gem install jekyll-paginate
+gem install bundler
+bundle install
 ```
 
 To run the project run the following commands:

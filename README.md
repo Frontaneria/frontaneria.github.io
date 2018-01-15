@@ -5,8 +5,8 @@
 Clone this repository on your local machine
 
 ```
-git clone git@github.com:Frontaneros/as/frontaneros.github.io.git
-cd frontaneros.github.io
+git clone git@github.com:Frontaneria/as/frontaneria.github.io.git
+cd frontaneria.github.io
 ```
 
 ### Prerequisites

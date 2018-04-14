@@ -15,7 +15,7 @@ http://ogp.me/ns/article#">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-  <meta property="og:image" content="frontaneros.github.io/img/logo.jpg" />
+  <meta property="og:image" content="frontaneria.github.io/img/logo.jpg" />
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:site_name" content="{{ site.url }}" />
 
@@ -23,8 +23,8 @@ http://ogp.me/ns/article#">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@Frontaneros/as">
   <meta name="twitter:domain" content="{{ site.url }}">
-  <meta name="twitter:creator" content="@Frontaneros/as">
-  <meta name="twitter:title" content="{{ page.title }} – Frontaneros/as">
+  <meta name="twitter:creator" content="@Frontaneria">
+  <meta name="twitter:title" content="{{ page.title }} – Frontaneria">
   <meta name="twitter:image" content="frontaneros.github.io/img/logo.jpg">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
@@ -45,17 +45,18 @@ http://ogp.me/ns/article#">
   <link rel="icon" type="image/png" href="/img/favicon/favicon-16x16.png" sizes="16x16">
   <link rel="manifest" href="/img/favicon/manifest.json">
   <link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#ea576e">
-  <link rel="shortcut icon" href="/img/favicon/favicon.ico">
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/img/favicon/mstile-144x144.png">
   <meta name="msapplication-config" content="/img/favicon/browserconfig.xml"> -->
-  
+
+  <link rel="shortcut icon" href="/favicon.ico">
+
 <!-- Chrome for Android Toolbar Color-->
   <meta name="theme-color" content="white">
 
 
 <!-- Other -->
-  <meta name="description" content="Frontaneros/as Website">
+  <meta name="description" content="Comunidad pro-inclusión de desarrollo frontend" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
 </head>

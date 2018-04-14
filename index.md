@@ -14,7 +14,7 @@ layout: default
 
 <div class="center">
   <div class="c-text">
-    <p>Asegúrate de mirar bien el CoC antes!</p>
+    <p>Asegúrate de mirar bien el CoC:</p>
     <br/>
   </div>
   <a class="c-button" href="/codigo-de-conducta">Código de Conducta</a>

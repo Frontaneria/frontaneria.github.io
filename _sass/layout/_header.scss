@@ -1,6 +1,6 @@
 .l-header {
   //border-top: 1em solid $color-secondary;
-  background: $color-secondary;
+  background: darken($color-secondary, 12%);
   color: $color-primary;
   padding: 2em 0;
   margin-bottom: 2em;
@@ -8,15 +8,15 @@
 
 .l-header__heading {
   text-align: center;
-  font-size: 2.4em;
+  font-size: 2.2em;
   margin: em(5) 0;
 }
 
 .l-header__logo {
-  width: 8em;
+  width: 6em;
   margin: 0 auto;
   overflow: hidden;
-  border-radius: 1em;
+  border-radius: 0.75em;
 }
 
 @include mq($from: mobile) {

@@ -3,6 +3,8 @@ layout: page
 title: 'Código de conducta'
 ---
 
+## ⚠️ [Este CoC aún se está discutiendo](https://github.com/Frontaneria/frontaneria.github.io/issues/4)
+
 Como participante en la comunidad te comprometes a mantener un entorno sin abusos para todo el mundo, sin importar sexo, identidad u orientación sexual, discapacidad, aspecto físico, edad, raza, nacionalidad o creencias religiosas. No toleraremos el acoso a miembros de la comunidad bajo ningún concepto. Los participantes que violen estas reglas pueden ser sancionados o expulsados de la comunidad a discreción.
 
 Las formas de acoso incluyen comentarios ofensivos, orales o escritos, relacionados con sexo, identidad u orientaciones sexuales, discapacidades, aspecto físico, edad, raza, nacionalidad o creencias religiosas, intimidación, amenazas, persecución, acecho, fotografías o grabaciones abusivas, y atenciones sexuales no gratas. El lenguaje o las imágenes sexuales no están permitidas.

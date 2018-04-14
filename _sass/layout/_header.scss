@@ -1,7 +1,7 @@
 .l-header {
-  //border-top: 1em solid $color-secondary;
   background: darken($color-secondary, 12%);
-  color: $color-primary;
+  background: linear-gradient(120deg, darken($color-secondary, 10%), darken($color-secondary, 20%));
+  color: $white;
   padding: 2em 0;
   margin-bottom: 2em;
 }
@@ -22,5 +22,6 @@
 @include mq($from: mobile) {
   .l-header {
     text-align: center;
+    padding: 3em 0;
   }
 }

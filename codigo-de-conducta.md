@@ -14,7 +14,7 @@ Los valores a los que esta comunidad debe aspirar son:
 - Sé agradable, acogedor y útil con la gente.
 - No insultes o vejes a otros.
 - Compórtate profesionalmente.
-- Sé paciente. Una comunicación efectiva require esfuerzo. Recuerda que la gente tiene diferentes tonos de comunicarse. Piensa cómo tus palabras pueden ser interpretadas.
+- Sé paciente. Una comunicación efectiva requiere esfuerzo. Recuerda que la gente tiene diferentes tonos de comunicarse. Piensa cómo tus palabras pueden ser interpretadas.
 - Considera que en ocasiones es mejor abstenerse de responder.
 - Sé respetuoso, especialmente con la gente que difiere de tu opinión.
 - Sé considerado. Interpreta los comentarios de los demás como bienintencionados, no busques el enfrentamiento.

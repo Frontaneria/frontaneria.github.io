@@ -6,6 +6,7 @@
 @import
   'abstracts/variables',
   'abstracts/functions',
+  'vendor/mq',
   'abstracts/mixins';
 
 // 2. Vendors
@@ -26,8 +27,11 @@
 
 // 5. Components
 @import
+  'components/text',
   'components/button';
 
 // 6. Page-specific styles
 @import
   'pages/home';
+
+@import 'base/shame';

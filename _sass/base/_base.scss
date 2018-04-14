@@ -7,6 +7,10 @@
  */
 html {
   box-sizing: border-box;
+  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-size: em($base-font-size);
+  background: $white;
+  color: $color-text;
 }
 
 /**

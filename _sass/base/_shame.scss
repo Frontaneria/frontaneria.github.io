@@ -1,13 +1,8 @@
 // -----------------------------------------------------------------------------
-// This file contains all application-wide copy text.
+// Any code here is to be refactored at some point.
 // -----------------------------------------------------------------------------
-p, li {
-  line-height: inherit;
-  margin: 0;
-}
 
-ul, ol {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+.wrapper {
+  max-width: em(640);
+  margin: 0 auto;
 }

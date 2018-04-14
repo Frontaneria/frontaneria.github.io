@@ -1,0 +1,33 @@
+.c-text {
+  line-height: 1.5;
+
+  &__large {
+    font-size: 1.3em;
+  }
+
+  p {
+    & + p {
+      margin-top: 1em;
+    }
+  }
+
+  ul {
+    list-style: circle;
+
+    & + p {
+      margin-top: 1em;
+    }
+  }
+
+  ol {
+    list-style: decimal;
+
+    & + p {
+      margin-top: 1em;
+    }
+  }
+
+  li {
+    margin-left: 1em;
+  }
+}

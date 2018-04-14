@@ -2,4 +2,21 @@
 // This file contains all application-wide Sass variables.
 // -----------------------------------------------------------------------------
 
-$main-color: #E83A00;
+$color-primary: #FDE74F;
+$color-secondary: #0023F4;
+$color-secondary-dark: #002388;
+
+$white: #fefefe;
+$grey: #4B4B4B;
+$color-text: #333333;
+
+$base-font-size: 16px;
+
+$margin: em(27);
+
+$mq-breakpoints: (
+    mobile:  320px,
+    tablet:  740px,
+    desktop: 980px,
+    wide:    1300px
+);

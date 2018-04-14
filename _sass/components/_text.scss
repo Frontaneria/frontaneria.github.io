@@ -5,6 +5,11 @@
     font-size: 1.3em;
   }
 
+  a {
+    color: $color-secondary;
+    text-decoration: underline;
+  }
+
   p {
     & + p {
       margin-top: 1em;

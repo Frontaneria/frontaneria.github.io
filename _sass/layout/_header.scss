@@ -4,24 +4,28 @@
   color: $white;
   padding: 2em 0;
   margin-bottom: 2em;
+  text-align: center;
 }
 
 .l-header__heading {
-  text-align: center;
   font-size: 2.2em;
   margin: em(5) 0;
 }
 
 .l-header__logo {
-  width: 6em;
+  display: inline-block;
+  width: 5.5em;
   margin: 0 auto;
   overflow: hidden;
   border-radius: 0.75em;
+
+  img {
+    width: 100%;
+  }
 }
 
 @include mq($from: mobile) {
   .l-header {
-    text-align: center;
     padding: 3em 0;
   }
 }

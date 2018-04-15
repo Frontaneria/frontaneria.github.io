@@ -13,5 +13,3 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
-theme: jekyll-theme-cayman
